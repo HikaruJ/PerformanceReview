@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Formatters.Json" Version="2.2.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Services\Shared\PerformanceReview.Services.Shared.Data\PerformanceReview.Services.Shared.Data.csproj" />
+    <ProjectReference Include="..\..\..\Services\Shared\PerformanceReview.Services.Shared.Entities\PerformanceReview.Services.Shared.Entities.csproj" />
+    <ProjectReference Include="..\PerformanceReview.BusinessLogic.Auth.Data\PerformanceReview.BusinessLogic.Auth.Data.csproj" />
+    <ProjectReference Include="..\PerformanceReview.BusinessLogic.Auth.Entities\PerformanceReview.BusinessLogic.Auth.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
