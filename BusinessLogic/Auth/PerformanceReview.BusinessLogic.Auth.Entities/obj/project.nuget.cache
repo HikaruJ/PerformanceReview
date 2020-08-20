@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPLximC4hj09hc/4dG9J7ztjRjyBldhEVmboesGjKw+Kd5/KdUGHi0Ay48VO8ZR9duGWXV1LvGKcutvB3LBlcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\performanceReview\\server\\BusinessLogic\\Auth\\PerformanceReview.BusinessLogic.Auth.Entities\\PerformanceReview.BusinessLogic.Auth.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\OrPer\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\OrPer\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\OrPer\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\OrPer\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

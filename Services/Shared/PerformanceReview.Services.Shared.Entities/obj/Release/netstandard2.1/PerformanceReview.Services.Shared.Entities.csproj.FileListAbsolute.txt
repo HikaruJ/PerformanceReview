@@ -1,0 +1,9 @@
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Entities\bin\Release\netstandard2.1\PerformanceReview.Services.Shared.Entities.deps.json
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Entities\bin\Release\netstandard2.1\PerformanceReview.Services.Shared.Entities.dll
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Entities\bin\Release\netstandard2.1\PerformanceReview.Services.Shared.Entities.pdb
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Entities\obj\Release\netstandard2.1\PerformanceReview.Services.Shared.Entities.csprojAssemblyReference.cache
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Entities\obj\Release\netstandard2.1\PerformanceReview.Services.Shared.Entities.AssemblyInfoInputs.cache
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Entities\obj\Release\netstandard2.1\PerformanceReview.Services.Shared.Entities.AssemblyInfo.cs
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Entities\obj\Release\netstandard2.1\PerformanceReview.Services.Shared.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Entities\obj\Release\netstandard2.1\PerformanceReview.Services.Shared.Entities.dll
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Entities\obj\Release\netstandard2.1\PerformanceReview.Services.Shared.Entities.pdb

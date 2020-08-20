@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\performanceReview\\server\\BusinessLogic\\Auth\\PerformanceReview.BusinessLogic.Auth.Entities\\PerformanceReview.BusinessLogic.Auth.Entities.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\performanceReview\\server\\API\\PerformanceReview.API.Entities\\PerformanceReview.API.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\performanceReview\\server\\API\\PerformanceReview.API.Entities\\PerformanceReview.API.Entities.csproj",
+        "projectName": "PerformanceReview.API.Entities",
+        "projectPath": "C:\\Projects\\performanceReview\\server\\API\\PerformanceReview.API.Entities\\PerformanceReview.API.Entities.csproj",
+        "packagesPath": "C:\\Users\\OrPer\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\performanceReview\\server\\API\\PerformanceReview.API.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\OrPer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\performanceReview\\server\\BusinessLogic\\Auth\\PerformanceReview.BusinessLogic.Auth.Entities\\PerformanceReview.BusinessLogic.Auth.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\performanceReview\\server\\BusinessLogic\\Auth\\PerformanceReview.BusinessLogic.Auth.Entities\\PerformanceReview.BusinessLogic.Auth.Entities.csproj",
+        "projectName": "PerformanceReview.BusinessLogic.Auth.Entities",
+        "projectPath": "C:\\Projects\\performanceReview\\server\\BusinessLogic\\Auth\\PerformanceReview.BusinessLogic.Auth.Entities\\PerformanceReview.BusinessLogic.Auth.Entities.csproj",
+        "packagesPath": "C:\\Users\\OrPer\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\performanceReview\\server\\BusinessLogic\\Auth\\PerformanceReview.BusinessLogic.Auth.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\OrPer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Projects\\performanceReview\\server\\API\\PerformanceReview.API.Entities\\PerformanceReview.API.Entities.csproj": {
+                "projectPath": "C:\\Projects\\performanceReview\\server\\API\\PerformanceReview.API.Entities\\PerformanceReview.API.Entities.csproj"
+              },
+              "C:\\Projects\\performanceReview\\server\\Services\\Shared\\PerformanceReview.Services.Shared.Entities\\PerformanceReview.Services.Shared.Entities.csproj": {
+                "projectPath": "C:\\Projects\\performanceReview\\server\\Services\\Shared\\PerformanceReview.Services.Shared.Entities\\PerformanceReview.Services.Shared.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\performanceReview\\server\\Services\\Shared\\PerformanceReview.Services.Shared.Entities\\PerformanceReview.Services.Shared.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\performanceReview\\server\\Services\\Shared\\PerformanceReview.Services.Shared.Entities\\PerformanceReview.Services.Shared.Entities.csproj",
+        "projectName": "PerformanceReview.Services.Shared.Entities",
+        "projectPath": "C:\\Projects\\performanceReview\\server\\Services\\Shared\\PerformanceReview.Services.Shared.Entities\\PerformanceReview.Services.Shared.Entities.csproj",
+        "packagesPath": "C:\\Users\\OrPer\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\performanceReview\\server\\Services\\Shared\\PerformanceReview.Services.Shared.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\OrPer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
