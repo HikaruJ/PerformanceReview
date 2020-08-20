@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qdI6hU9lm0UufLCNuBTfuIMy89ktwPav7CMCn28mqmI/LJge/9AT6Fx0aOEMqqTv1CwWhp57i2qPUw252aB6dA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\performanceReview\\server\\API\\PerformanceReview.API.Entities\\PerformanceReview.API.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OrPer\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

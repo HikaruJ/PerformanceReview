@@ -1,0 +1,8 @@
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Data\bin\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Data.deps.json
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Data\bin\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Data.dll
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Data\bin\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Data.pdb
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Data\obj\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Data.AssemblyInfoInputs.cache
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Data\obj\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Data.AssemblyInfo.cs
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Data\obj\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Data.csproj.CoreCompileInputs.cache
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Data\obj\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Data.dll
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Data\obj\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Data.pdb

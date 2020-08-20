@@ -1,0 +1,8 @@
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Data\bin\Release\netstandard2.1\PerformanceReview.Services.Shared.Data.deps.json
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Data\bin\Release\netstandard2.1\PerformanceReview.Services.Shared.Data.dll
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Data\bin\Release\netstandard2.1\PerformanceReview.Services.Shared.Data.pdb
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Data\obj\Release\netstandard2.1\PerformanceReview.Services.Shared.Data.AssemblyInfoInputs.cache
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Data\obj\Release\netstandard2.1\PerformanceReview.Services.Shared.Data.AssemblyInfo.cs
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Data\obj\Release\netstandard2.1\PerformanceReview.Services.Shared.Data.csproj.CoreCompileInputs.cache
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Data\obj\Release\netstandard2.1\PerformanceReview.Services.Shared.Data.dll
+C:\Projects\performanceReview\server\Services\Shared\PerformanceReview.Services.Shared.Data\obj\Release\netstandard2.1\PerformanceReview.Services.Shared.Data.pdb

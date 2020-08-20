@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n9yMjcrSSO114LPhHsbSS0prPh3haqbZr8bhq+N48pyiZDY4d45YJhINH6UF2/Atu0Np/CDW6mT07v9bTBkrPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\performanceReview\\server\\Services\\Shared\\PerformanceReview.Services.Shared.Entities\\PerformanceReview.Services.Shared.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OrPer\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

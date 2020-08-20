@@ -1,0 +1,14 @@
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Entities\bin\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Entities.deps.json
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Entities\bin\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Entities.dll
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Entities\bin\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Entities.pdb
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Entities\bin\Release\netstandard2.1\PerformanceReview.API.Entities.dll
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Entities\bin\Release\netstandard2.1\PerformanceReview.Services.Shared.Entities.dll
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Entities\bin\Release\netstandard2.1\PerformanceReview.API.Entities.pdb
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Entities\bin\Release\netstandard2.1\PerformanceReview.Services.Shared.Entities.pdb
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Entities\obj\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Entities.csprojAssemblyReference.cache
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Entities\obj\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Entities.AssemblyInfoInputs.cache
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Entities\obj\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Entities.AssemblyInfo.cs
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Entities\obj\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Entities\obj\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Entities.csproj.CopyComplete
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Entities\obj\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Entities.dll
+C:\Projects\performanceReview\server\BusinessLogic\Auth\PerformanceReview.BusinessLogic.Auth.Entities\obj\Release\netstandard2.1\PerformanceReview.BusinessLogic.Auth.Entities.pdb
